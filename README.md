@@ -62,7 +62,7 @@ Whether you're looking to mine a single cryptocurrency solo, create a private po
 [⬆ Back to Top](#toc)
 
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04, and 24.04.
+We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
 
 Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more.
 
