@@ -71,7 +71,7 @@ Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper
 For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST for SHA256/SHA256D and MWEB (LTC/scrypt) Available:
+### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D and MWEB (LTC/scrypt) Available:
 [⬆ Back to Top](#toc)
 
 - **ASICBoost-Enabled:** We do have custom Yiimp Asicboost implemented solution for Bitcoin and SHA-256 coins, supporting ASIC machines, NiceHash, or MiningRigRentals.
