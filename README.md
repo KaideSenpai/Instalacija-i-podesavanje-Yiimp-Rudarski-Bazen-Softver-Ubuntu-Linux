@@ -18,6 +18,7 @@ Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and
 - **Discord:** `goodthebest`  
   *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
 
+[We also provide Miningcore services, click here](https://github.com/goodthebest/Install-Miningcore-Mining-Pool-Software-Setup-Services)
 
 <a id="toc"></a>
 
