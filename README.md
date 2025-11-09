@@ -3,7 +3,7 @@
 # Crypto Mining Pool Setup Services
 # Mining Pool Software Expert: 
 ## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
 
 Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
 
