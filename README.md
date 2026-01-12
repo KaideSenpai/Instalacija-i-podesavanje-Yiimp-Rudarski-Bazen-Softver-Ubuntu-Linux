@@ -1,130 +1,112 @@
 <a id="readme"></a>
 
-# Crypto Mining Pool Setup Services
-# Mining Pool Software Expert: 
-## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+# Usluge postavljanja kripto rudarskog bazena
+# Ekspert za softver rudarskih pool‑ova:
+## Možemo da instaliramo rudarski bazen za bilo koji algoritam ili altkoine.
+### To uključuje poznate Bitcoin, Bitcoin Cash, Dogecoin, Litecoin, Digibyte i sve druge kripto altkoine po vašem izboru – samo navedite i mi ćemo to završiti.
 
-Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
-
-
+Unajmite profesionalnog Yiimp stručnjaka za softver rudarskih bazena, blockchain programera i kodera za prilagođena rešenja rudarskih bazena. Besplatna početna konsultacija: kontaktirajte nas danas!
 
 <a id="01-contact-information"></a>
-### 📬 Contact Information
+### 📬 Kontakt informacije
 
-
-- **Telegram:** [Click Here to Connect on Telegram](https://t.me/goodthebest)
-- **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
+- **Telegram:** [Kliknite ovde da se povežete na Telegramu](https://t.me/goodthebest)
+- **E‑mail:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
 - **Discord:** `goodthebest`  
-  *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
-
+  *Da dodate na Discordu:* Otvorite Discord → Prijatelji → Dodaj prijatelja → Zalepite `goodthebest` → Pošaljite zahtev
 
 <a id="toc"></a>
 
 <a id="table-of-contents"></a>
-## 📑 Table of Contents
+## 📑 Sadržaj
 
-- [ 📬 Contact Information](#01-contact-information)
+- [ 📬 Kontakt informacije](#01-contact-information)
 
-- [Install & Set Up a Crypto Mining Pool on Yiimp Open Source Software for Any Cryptocurrency or Algorithm – Ready in Hours](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
+- [Instalacija i postavljanje Yiimp kripto rudarskog bazena za bilo koju kriptovalutu ili algoritam – gotovo za nekoliko sati](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
 
-- [Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
+- [Prilagođeni blockchain razvoj i Yiimp usluge kodiranja rudarskih bazena kao frilenseri i nezavisni izvođači](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
 
-- [Advanced Yiimp Features Available:](#21-advanced-features-available)
+- [Dostupne napredne Yiimp funkcije:](#21-advanced-features-available)
 
-- [Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
+- [Profesionalna instalacija Yiimp rudarskog bazena za altkoine, algoritme i prilagođene kriptovalute](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
 
+- [Kako funkcioniše naš proces postavljanja Yiimp rudarskog bazena](#4-how-our-yiimp-mining-pool-setup-process-works)
 
-- [How Our Cyrpto Mining Pool Setup Process Works](#4-how-our-yiimp-mining-pool-setup-process-works)
+- [Podržani algoritmi za Yiimp kripto rudarske bazene](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
 
-
-- [Supported Algorithms for Yiimp Cryptocurrency Mining Pools](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
-
-
-- [Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
-
+- [Podržane kriptovalute za jednoalgoritamske ili multi‑algoritamske Yiimp bazene](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
 
 ---
 
-
-
-[⬆ Back to Top](#toc)
+[⬆ Nazad na početak](#toc)
 
 <a id="1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours"></a>
-## 1. Install & Set Up a Custom Yiimp Mining Pool for Any Cryptocurrency or Algorithm – Ready in Hours
-[⬆ Back to Top](#toc)
+## 1. Instalacija i postavljanje prilagođenog Yiimp rudarskog bazena za bilo koju kriptovalutu ili algoritam – gotovo za nekoliko sati
+[⬆ Nazad na početak](#toc)
 
-
-Whether you're looking to mine a single cryptocurrency solo, create a private pool for friends and family, or launch a public mining pool compatible with NiceHash, cloud mining, or MRR (MiningRigRentals), we offer comprehensive solutions tailored to your needs. Our Yiimp mining pool setup services support multiple coins and algorithms, ensuring seamless blockchain integration and high-performance mining operations.
+Bilo da želite da kopate jednu kriptovalutu solo, da napravite privatni bazen za prijatelje i porodicu ili da pokrenete javni rudarski bazen kompatibilan sa NiceHash, cloud miningom ili MRR (MiningRigRentals), nudimo sveobuhvatna rešenja prilagođena vašim potrebama. Naše usluge postavljanja Yiimp bazena podržavaju više novčića i algoritama, obezbeđujući besprekornu integraciju sa blockchainom i visokoperformansne rudarske operacije.
 
 <a id="2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors"></a>
-## 2. Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors
-[⬆ Back to Top](#toc)
+## 2. Prilagođeni blockchain razvoj i Yiimp usluge kodiranja rudarskih bazena kao frilenseri i nezavisni izvođači
+[⬆ Nazad na početak](#toc)
 
+Specijalizovani smo za prilagođene blockchain projekte, uključujući modifikacije Yiimp rudarskih bazena, integraciju algoritama i forkovanje kriptovaluta. Kompatibilno sa Linux operativnim sistemima Ubuntu: 16.04, 18.04, 20.04, 22.04, 24.04 i 25.01.
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
+Naš stručni tim instalira, konfiguriše i pokreće Yiimp softver rudarskog bazena kako bi omogućio rudarenje više kripto tokena i novčića. Takođe vršimo postavljanje novih novčića forkovanih iz Bitcoin (SHA‑256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11) i drugih.
 
-Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more. We do have a solution for Zcash/zec mining pool using a software other than yiimp.
+Fork Blackcoina kada se kopa na yiimp može odbacivati blokove; imamo odgovarajuće rešenje ako vaš fork Blackcoina ne prihvata nove blokove.
 
-Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper solution to this if your Blackcoin's clone is not accepting new blocks.
-
-For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
+Za prilagođenu konfiguraciju multi‑coin Yiimp bazena, rešavanje problema ili brzu podršku, kontaktirajte nas putem naših podataka.
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D stratum and MWEB (LTC/scrypt) Available:
-[⬆ Back to Top](#toc)
+### 2.1. Napredne Yiimp funkcije, kao što je implementacija Yiimp ASICBOOST za SHA256/SHA256D stratum i MWEB (LTC/scrypt)
+[⬆ Nazad na početak](#toc)
 
-- **ASICBoost-Enabled Mining Stratum:** We do have custom Yiimp Asicboost implemented solution for Bitcoin, for other bitcoin family altcoins and SHA256/SHA256D algo coins, supporting most ASICboost machines, cloud mining NiceHash, or MiningRigRentals.
-- **MWEB-Enabled Merged Mining Pools:** For Litecoin, Dogecoin, Bellscoin, and other Scrypt coins, compatible with ASIC hardware, NiceHash, or MRR.
+- **Stratum sa podrškom za ASICBoost:** Imamo prilagođeno Yiimp Asicboost rešenje za Bitcoin, druge altkoine iz Bitcoin porodice i novčiće sa algoritmima SHA256/SHA256D, podržavajući većinu ASICboost uređaja, cloud mining NiceHash ili MiningRigRentals.
+- **Ujedinjeni rudarski bazeni sa MWEB:** Za Litecoin, Dogecoin, Bellscoin i druge Scrypt novčiće kompatibilne sa ASIC hardverom, NiceHash ili MRR.
 
-*Note:* This service is independent and not affiliated with platforms like Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit, or similar. Initial consultations and technical discussions for Yiimp projects are free.
+*Napomena:* Ova usluga je nezavisna i nije povezana sa platformama kao što su Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit ili sličnim. Početne konsultacije i tehnički razgovori o Yiimp projektima su besplatni.
 
 <a id="3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies"></a>
-## 3. Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies
-[⬆ Back to Top](#toc)
+## 3. Profesionalna instalacija Yiimp rudarskog bazena za altkoine, algoritme i prilagođene kriptovalute
+[⬆ Nazad na početak](#toc)
 
+Pokrenite sopstveni rudarski bazen uz naše sveobuhvatne usluge postavljanja Yiimp. Opustite se dok mi obavljamo sve od početka, uključujući:
 
-Launch your own mining pool with our end-to-end Yiimp setup services. Relax while we handle everything from scratch, including:
+- Instalaciju kripto novčanika/demona za vaše izabrane novčiće.
+- Postavljanje servera, konfiguraciju i administraciju Yiimp softvera za rudarenje.
+- Opcije solo, privatnih ili javnih rudarskih bazena – idealno za ličnu upotrebu, deljenje s prijateljima ili otvorene zajednice.
+- Podesive naknade za bazen (može se postaviti nula ili bilo koji procenat, menjati u bilo kom trenutku).
+- Kompatibilnost sa CPU, GPU, ASIC ili eksternim servisima kao što je NiceHash za iznajmljeni hashrate.
+- Podršku za multi‑coin i multi‑algoritamske bazene – dodajte više novčića/algoritama po potrebi (ako to podržava Yiimp i vaš server).
+- Dostupne usluge održavanja (minimalna podrška nakon postavljanja).
+- Rešavanje problema kao što su odbijeni blokovi, greške u plaćanju, korisničke poteškoće, vardiff, automatska razmena, demoni i druge.
+- Optimizaciju performansi i podešavanja radi efikasnosti Yiimp‑a i servera.
+- Prilagođene funkcije ili izmene uz dodatnu naknadu.
+- Podržano pravim iskustvom – bez oslanjanja na tutorijale, online kurseve ili sekundarne informacije.
 
-- Installation of cryptocurrency wallets/daemons for your chosen coins.
-- Server setup, configuration, and administration for Yiimp mining software.
-- Options for solo, private, or public mining pools – ideal for personal use, sharing with friends, or open communities.
-- Customizable pool fees (set to zero or any percentage, adjustable anytime).
-- Compatibility with CPUs, GPUs, ASICs, or external services like NiceHash for rented hashpower.
-- Support for multi-coin and multi-algorithm pools – add more coins/algos as needed (if supported by Yiimp and your server).
-- Ongoing maintenance services available (minimal upkeep required post-setup).
-- Troubleshooting for issues like rejected blocks, payout failures, custom difficulties, vardiff, auto-exchange, daemons, and more.
-- Performance optimization and tweaks for Yiimp and server efficiency.
-- Custom features or modifications at additional cost.
-- Backed by real-world expertise – no reliance on tutorials, online courses, or secondhand knowledge.
-
-**Important:** Yiimp pool software must be installed on an Ubuntu Linux distribution. It is not compatible with Windows, macOS, Android, Raspberry Pi, iOS, or alternative Linux distributions such as CentOS, Fedora, Debian, Arch, or Alpine. However, miners running any of these operating systems can still connect to a Yiimp pool.
+**Važno:** Yiimp softver za bazen mora biti instaliran na Ubuntu Linux distribuciji. Nije kompatibilan sa Windows, macOS, Android, Raspberry Pi, iOS ili drugim Linux distribucijama kao što su CentOS, Fedora, Debian, Arch ili Alpine. Međutim, rudari koji koriste bilo koji od ovih operativnih sistema i dalje mogu da se povežu na Yiimp bazen.
 
 <a id="4-how-our-yiimp-mining-pool-setup-process-works"></a>
-## 4. How Our Yiimp Mining Pool Setup Process Works
-[⬆ Back to Top](#toc)
+## 4. Kako funkcioniše naš proces postavljanja Yiimp rudarskog bazena
+[⬆ Nazad na početak](#toc)
 
+Ne trebaju vam preuzimanja ni tehničke radnje sa vaše strane. Naši stručnjaci upravljaju celokupnim procesom. Potreban vam je VPS, cloud instanca (npr. AWS) ili dedikovani server od provajdera kao što su Digital Ocean, Vultr, Hetzner Cloud, Linode, ili sopstveni hardver. Minimalne specifikacije i verzija Ubuntu‑a zavise od vaših zahteva za rudarenje.
 
-No downloads or technical actions needed on your end. Our experts manage the entire process. You'll need a VPS, cloud instance (e.g., AWS), or dedicated server from providers like Digital Ocean, Vultr, Hetzner Cloud, Linode, or your own hardware. Minimum specs and Ubuntu version depend on your mining requirements.
-
-📬 **For a quick consultation or custom quote, contact us directly:**  
+📬 **Za brzu konsultaciju ili prilagođenu ponudu kontaktirajte nas direktno:**  
 - Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
-- Email: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
+- E‑mail: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
 - Discord: `goodthebest`
 
+Radimo na daljinu putem **TeamViewer‑a** ili **AnyDesk‑a** radi transparentnosti (nije potreban direktan pristup serveru). Ako želite, obezbedite pristupne podatke i mi ćemo postaviti bazen – nakon toga možete promeniti lozinke.
 
-We work remotely via **TeamViewer** or **AnyDesk** for transparency (no direct server access required). Provide credentials if preferred, and we'll set up the pool – you can change passwords afterward.
-
-For a customized quote on Yiimp mining pool setup, blockchain development, or crypto mining services, contact us today for real-time discussions.
+Za prilagođenu ponudu postavljanja Yiimp rudarskog bazena, blockchain razvoja ili usluga kripto rudarenja, kontaktirajte nas danas za pravi razgovor.
 
 <a id="5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools"></a>
-## 5. Supported Algorithms for Yiimp Cryptocurrency Mining Pools
-[⬆ Back to Top](#toc)
+## 5. Podržani algoritmi za Yiimp kripto rudarske bazene
+[⬆ Nazad na početak](#toc)
 
-
-Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a comprehensive list:
-
-| Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
+Yiimp podržava širok spektar algoritama za efikasno kripto rudarenje. Evo potpunog spiska:| Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
 |-------------|-------------|-------------|-------------|-------------|-------------|
 | a5a        | fresh      | lyra2v2    | qubit      | timetravel | x14        |
 | argon2     | bastion    | bitcore    | blake      | blake2s    | blakecoin  |
@@ -152,17 +134,16 @@ Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a 
 | yespowerr24| yespowerr32| yespowerurx| x11gost    | x13bcd     | x16r-v2    |
 | xevan      | Xelishash  |            |            |            |            |
 
-
 <a id="6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools"></a>
-## 6. Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools
-[⬆ Back to Top](#toc)
-
+## 6. Podržane kriptovalute za jednoalgoritamske ili multi‑algoritamske Yiimp bazene
+[⬆ Nazad na početak](#toc)
 
 <details>
-<summary>Supported Cryptocurrencies for Single or Multi‑Algo Yiimp Mining Pools — We can configure Yiimp pools for most cryptocurrencies (with some exceptions). Here's an extensive list of supported coins for your mining pool setup:</summary>
+<summary>Podržane kriptovalute za jednoalgoritamske ili multi‑algoritamske Yiimp bazene — možemo konfigurisati Yiimp bazene za većinu kriptovaluta (sa određenim izuzecima). Evo opsežnog spiska podržanih novčića za postavljanje vašeg rudarskog bazena:</summary>
 
 | Crypto Mining | Cryptocurrencies | Mining Pools | Altcoin | MiningPool | Alt Currency | Crypto Coins |
 |---------------|------------------|--------------|---------|------------|--------------|--------------|
+
 | Bitcoin BTC | XRP XRP | Ethereum ETH | Stellar XLM | Tether USDT | Bitcoin Cash BCH | EOS EOS |
 | Litecoin LTC | TRON TRX | Cardano ADA | Monero XMR | IOTA MIOTA | NEM XEM | Binance Coin BNB |
 | Ethereum Classic ETC | NEO NEO | Zcash ZEC | Dogecoin DOGE | Maker MKR | Tezos XTZ | VeChain VET |
